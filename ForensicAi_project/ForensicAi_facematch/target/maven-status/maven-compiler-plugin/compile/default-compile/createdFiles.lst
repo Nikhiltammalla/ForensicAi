@@ -1,0 +1,13 @@
+com\mycompany\forensicai_facematch\collection_delete.class
+com\mycompany\forensicai_facematch\collection_create.class
+com\mycompany\forensicai_facematch\face_rekognition$5.class
+com\mycompany\forensicai_facematch\face_rekognition$4.class
+com\mycompany\forensicai_facematch\face_rekognition$3.class
+com\mycompany\forensicai_facematch\collection_search_face.class
+com\mycompany\forensicai_facematch\face_rekognition$1.class
+com\mycompany\forensicai_facematch\face_rekognition$2.class
+com\mycompany\forensicai_facematch\collection_list_faces.class
+com\mycompany\forensicai_facematch\collection_list.class
+com\mycompany\forensicai_facematch\face_rekognition.class
+com\mycompany\forensicai_facematch\collection_add_image.class
+com\mycompany\forensicai_facematch\face_rekognition$6.class
